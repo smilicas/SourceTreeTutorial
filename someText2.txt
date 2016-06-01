@@ -1,1 +1,3 @@
-And now I just added some more text to the file
+And now I just 
+New line added
+And something deleted
